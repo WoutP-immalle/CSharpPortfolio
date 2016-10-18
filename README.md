@@ -1,3 +1,4 @@
-# CSharpPortfolio-WoutPeeters
+﻿# CSharpPortfolio-WoutPeeters
 
 [Classes] (Classes)
+[Variabelen] (Variabelen)
